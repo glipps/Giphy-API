@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href=".css">
+
+<head>
+</head>
+<body>
+  <h1>Scenes</h1>
+
+<hr>  
+
+<button class="button button1">In the Country</button>
+<button class="button button4">Tranquil Scenes</button>
+<button class="button button2">Beach and Ocean</button>
+<button class="button button3">Beauty of the Night</button>
+<button class="button button1">In the Garden</button>
+<button class="button button2">In the Forest</button>
+<button class="button button3">Natures Beauty</button>
+<button class="button button5">Artistic Pieces</button>
+<button class="button button2">Summer Scenes</button>
+<button class="button button3">The Still Life</button>
+<button class="button button4">In the Village</button>
+<button class="button button5">Cityscape</button>
+<button class="button button4">Sunrise Sunset</button>
+<button class="button button1">Majestic Views</button>
+
+<hr>
+
+<div class="row">
+  <div class="column">
+    <div class="card1">
+      <div id="gifHolder"></div>
+      <p>Rating</p>
+    </div>
+  </div>
+
+ 
+
+
+  <div class="column">
+    <div class="card2">
+      <h3>What shall we search ?</h3>
+      <input type="text" id="search">
+      <button>Add Button</button>
+    </div>
+  </div>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script rel="javascript" src=".js"></script>
+  
+
+    
+
+
+
+</body>
+</html>
